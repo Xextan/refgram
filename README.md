@@ -5,6 +5,8 @@
 
 Xextan Reference Grammar, a.k.a. the Xextbook
 
+Check out the [sample page](?page=sample-page)
+
 ## Table of Contents
 
 - [Stuff](#stufft)
