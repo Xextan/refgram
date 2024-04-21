@@ -1,24 +1,24 @@
 # Basic Phrases
 
 ***xoi***
-- *hello* 
-- *goodbye*
-
+*hello* 
+*goodbye*
+___
 ***voi!***
-- *hey!**
-- *hi!*
-
+*hey!**
+*hi!*
+___
 ***kie***
-- *Please*
-- *Thank you*
-- *You’re welcome*
-- *Excuse me*
-
+*Please*
+*Thank you*
+*You’re welcome*
+*Excuse me*
+___
 ***qeu***
-- *yes*
-- *indeed*
-- *I agree*
-
+*yes*
+*indeed*
+*I agree*
+___
 ***nai***
 - *no*
 - *not true*
