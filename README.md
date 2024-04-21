@@ -1,15 +1,18 @@
 
-![markdown logo](assets/user/markdown.svg)
+![Xextan heart](assets/user/xex_heart.png)
 
 # Xextan Reference Grammar
 
 Xextan Reference Grammar, a.k.a. the Xextbook
 
-Check out the [sample page](?page=sample-page)
+[Basic phrases](?page=basic-phrases)
+[Foreword](?page=foreword)
+[Orthography](?page=orthography)
+[Phonology](?page=phonology)
 
 ## Table of Contents
 
-- [Stuff](#stufft)
+- [Stuff](#stuff)
 - [Things](#things)
 - [Affairs](#affairs)
 
