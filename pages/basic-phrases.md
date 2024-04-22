@@ -79,6 +79,7 @@ ___
 - *I don’t care*
 - *Who cares*
 ___
+
 ## Stock Phrases
 
 ***jano?***
@@ -90,20 +91,18 @@ ___
 - *Good day!*
 - *Good morning!*
 - *Good evening!* 
-- (lit. “Go happily!”)
 ___
 ***jo spa kol***
 - *Good night*
 - *Sleep well* 
-- (lit. “Rest easy”)
 ___
 ***ja fil vo bon?***
 - *How are you?* 
-- (lit. “Are you feeling well?”)
 ___
 ***jo sonsak!***
 - *Shut up!*
 ___
+
 ## Miscellaneous ##
 
 ***no dun ni***.
@@ -114,7 +113,6 @@ ___
 ___
 ***pa lil ni __ soltep.***
 - *I am __ years old.*
-- *(lit. “I have experienced __ years.”)*
 ___
 ***ja zal o qakdanzi e ka?***
 - *Where is the bathroom?*
@@ -125,8 +123,11 @@ ___
 ***ja ken tak vo Xextan?***
 - *Can you speak Xextan?*
 ___
-***(no) ken tak ni Xextan.***
-- *I can(not) speak Xextan.*
+***ken tak ni Xextan.***
+- *I can speak Xextan.*
+___
+***no ken tak ni Xextan.***
+- *I cannot speak Xextan.*
 ___
 ***xel de únági o nia xutvak konfli.***
 - *My hovercraft is full of eels.*
