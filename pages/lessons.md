@@ -1,5 +1,6 @@
 # Xextbook (Xextan Lessons)
-Xextan 1.2 by Rachel Gardener
+Xextan: the compact logical language
+Version 1.1 by Rachel Isabel Gardener
 Last updated 4/21/2024
 
 ## Table of Contents ##
@@ -202,10 +203,10 @@ A determiner is a word which expresses the intended referent of a given word or 
 In the above examples, the case markers may be dropped, as noun phrases formed from a determiner and a predicate automatically take implied case roles in accordance with the case hierarchy, just like pronouns. Nonetheless, as with pronouns, it is permissible to include the case marker for clarity or emphasis.
 Xextan also features a set of possessive determiners, which create a possessive noun phrase. These include:
 
-- nia (“my”/”our”) 
-- vua (“your”) 
-- lia (“his”/”her”/”their”)
-- gua (“its”)
+- **nia** - (“my”/”our”) 
+- **vua** - (“your”) 
+- **lia** - (“his”/”her”/”their”)
+- **gua** - (“its”)
 
 &nbsp;&nbsp;&nbsp;***pon (o) nia nandze (e) vua papkin (a) lia padqbu.***
 &nbsp;&nbsp;&nbsp;*“My dad put your bag on his desk.”*
@@ -219,6 +220,7 @@ The determiner **po** converts a predicate or noun into an abstraction, or a sub
 &nbsp;&nbsp;&nbsp;*“You like to read.”*
     
 The usefulness of simple **po** + predicate phrases is somewhat limited, but can be expanded with tags (ch. 7) and long scope (ch. 9).
+
 Other determiners include **la**, which introduces “native” Xextan names, and **lu**, which converts a Xextan word or phrase into a noun representing the word/phrase itself. To introduce foreign names and quotes, the particles **lau** and **lou** are instead used, and the foreign word itself is surrounded by the delimiter phoneme, denoted by a tilde **~** as below. (The tilde may be realized as any sound not otherwise present in the quoted text.)
 
 &nbsp;&nbsp;&nbsp;***sku la Bíli lu “bon!”***
@@ -541,4 +543,3 @@ Formally speaking, the argument version of transmogrification employs a trick in
 
 &nbsp;&nbsp;&nbsp;***jo bo!***
 &nbsp;&nbsp;&nbsp;*“Do the thing!”*
-
