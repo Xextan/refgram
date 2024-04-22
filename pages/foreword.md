@@ -1,6 +1,6 @@
 # Foreword
 
-*What is a logical language?* 
+## *What is a logical language?* 
 
 A logical language, or “loglang”, is a constructed language which can be translated to and from formal logic notation; or, more broadly, any language with an unambiguous syntactic structure, such that any given sentence has exactly one possible “reading”, and therefore may be easily parsed by an algorithm like a programming language. Xextan belongs to the latter, broader category; while it may not always translate perfectly to formal logical notation, it is designed to allow ideas to be expressed freely, simply, and unambiguously.
 
@@ -15,5 +15,5 @@ Unlike our predecessors, we found wisdom in the diversity of ideals and visions,
 
 Dear reader, thank you for joining me on this journey. I hope above all that I may pass along to you that same spark of inspiration through these pages that I found many years ago in the dreams of another.
 
-    Rachel Isabel Gardener
-    (a.k.a. “la janbe”)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rachel Isabel Gardener
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a.k.a. “la janbe”)
