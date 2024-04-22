@@ -9,6 +9,7 @@ Xextan Reference Grammar, a.k.a. the Xextbook
 [Foreword](?page=foreword)
 [Orthography](?page=orthography)
 [Phonology](?page=phonology)
+[Lessons](?page=lessons)
 
 ## Table of Contents
 
