@@ -2,6 +2,8 @@
 Xextan 1.2 by Rachel Gardener
 Last updated 4/21/2024
 
+## Table of Contents ##
+
 - [Lesson 1: Predicates](#lesson-1-predicates)
 - [Lesson 2: Arguments](#lesson-2-arguments)
 - [Lesson 3: Illocutions](#lesson-3-illocutions)
