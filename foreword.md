@@ -15,5 +15,4 @@ Unlike our predecessors, we found wisdom in the diversity of ideals and visions,
 
 Dear reader, thank you for joining me on this journey. I hope above all that I may pass along to you that same spark of inspiration through these pages that I found many years ago in the dreams of another.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rachel Isabel Gardener
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a.k.a. “la janbe”)
+\- Rachel Isabel Gardener (a.k.a. “la janbe”)
