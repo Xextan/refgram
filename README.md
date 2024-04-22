@@ -3,28 +3,90 @@
 
 # Xextan Reference Grammar
 
-Xextan Reference Grammar, a.k.a. the Xextbook
-
-[Basic phrases](?page=basic-phrases)
 [Foreword](?page=foreword)
-[Orthography](?page=orthography)
-[Phonology](?page=phonology)
+[Basic phrases](?page=basic-phrases)
 [Lessons](?page=lessons)
 
-## Table of Contents
+## Phonology
 
-- [Stuff](#stuff)
-- [Things](#things)
-- [Affairs](#affairs)
+### Consonants
 
-## Stuff
+| **Glyph** | **IPA** |
+|---|---|
+| p | /p/ |
+| t | /t/ |
+| k | /k/ |
+| f | /f/ |
+| s | /s/ |
+| x | /ʃ/ |
+| b | /b/ |
+| d | /d/ |
+| g | /g/ |
+| v | /v/ |
+| z | /z/ |
+| q | /ʒ/ |
+| l | /l/ |
+| n | /n/ |
+| r | /r/ |
+| m | /m/ |
+| h | /h/ |
 
-Stuff goes here.
+### Vowels
 
-## Things
+| **Glyph** | **IPA** |
+|---|---|
+| a | /a/ |
+| e | /ɛ/ |
+| i | /i/ |
+| o | /o/ |
+| u | /u/ |
+| y | /ə/ |
 
-Things go here.
+## Orthography
 
-## Affairs
+Xextan is written with the Latin alphabet, or alternatively with **kaxxol** script, an alphasyllabary inspired by Korean Hangeul.
 
-Affairs go here.
+In the basic Latin orthography, unless otherwise specified, all predicates carry high pitch accent (or tone) on the initial syllable and low pitch on any trailing syllables, while particles carry low pitch. Any syllables which carry an irregular pitch for their shape is indicated by an acute accent á for high pitch, and a grave accent à for low pitch.
+
+With the exception of y, which only occurs in names and loanwords (and only hypothetically, as there are currently no words in the dictionary which contain it), all vowels may additionally be nasalized, which is indicated in writing by placing a tilde above the letter, such as **ã**. Diphthongs may also be nasalized, in which case the mark is placed over the first vowel, as in **ãu**.
+
+The only consonants permitted at the end (coda) of root words and root-shaped syllables are stops and sonorants, including /p/, /b/, /t/, /d/, /k/, /g/, /l/, /n/. Xextan does not phonemically distinguish voicing of syllable-final stops: in compounds, a syllable-final voiceless stop will assimilate its voicing to a following voiced consonant, except /l/ and /n/. 
+
+Similarly, the nasal /n/ will assimilate its position to the following consonant, becoming /m/ before labial consonants and /ŋ/ before velar consonants. These sound changes are not reflected in the orthography, except where a stop forms a geminate or affricate with a following stop, in which case the syllable-final stop is written as its voiced counterpart.
+
+## Morphology
+
+Like most logical languages, Xextan words abide by the principle that “form follows function”. That is, different kinds of words may be easily distinguished by their shape. 
+
+The most basic types of Xextan words are roots, which follow either a CVC or CCV pattern, with C representing consonants and V representing vowels. CVC roots must end in either p, t, k, l, or n, and CCV roots must contain a valid consonant cluster. Roots represent basic concepts which either cannot easily be described by reference to other basic concepts as or which are themselves useful in forming other words. In terms of semantic space, they correspond to verbs, nouns, and adjectives/adverbs in natural languages. However, all roots are are [predicates](?page=predicate) Examples of roots include:
+
+**xen** 
+(“become”)
+
+**qlu**
+(“yellow”)
+
+**tsa**
+(“plant”)
+
+Roots can be chained together to form compounds, where the first syllable is pronounced with high pitch accent and all subsequent syllables with low pitch accent. While roots on their own tend to stand for their literal meaning unless otherwise specified, compounds are more opaque, and may be constructed from a generalization, analogy, or metaphor.
+
+**vlabuk**				
+“\[to be a\] dictionary”
+
+**vla + buk**
+“word” + “book”
+
+**xutfli**
+“\[to\] swim”					
+
+**xut + fli**
+“water” + “float”
+
+**fengingop**			
+“\[to be a\] queen”
+
+**fen + gin + gop**
+“female” + “family” + “govern”
+
+The other types of words include particles, which serve special grammatical functions and take the form V, CV, and CVV, and freewords. Freewords include borrowed words and proper names (such as “Xextan”) and like roots and compounds, are grammatically predicates (see lesson 1). They cover all other valid word shapes besides predicates and particles.
