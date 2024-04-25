@@ -53,7 +53,7 @@ With the exception of y, which only occurs in names and loanwords (and only hypo
 
 The only consonants permitted at the end (coda) of root words and root-shaped syllables are stops and sonorants, including /p/, /b/, /t/, /d/, /k/, /g/, /l/, /n/. Xextan does not phonemically distinguish voicing of syllable-final stops: in compounds, a syllable-final voiceless stop will assimilate its voicing to a following voiced consonant, except /l/ and /n/. 
 
-Similarly, the nasal /n/ will assimilate its position to the following consonant, becoming /m/ before labial consonants and /ŋ/ before velar consonants. These sound changes are not reflected in the orthography, except where a stop forms a geminate or affricate with a following stop, in which case the syllable-final stop is written as its voiced counterpart.
+Similarly, the nasal /n/ will assimilate its position to the following consonant, becoming /m/ before labial consonants and /ŋ/ before velar consonants. These sound changes are not reflected in the orthography, except where a stop forms a geminate with a following stop, in which case the syllable-final stop is written as its voiced counterpart, e.g. **seddqe**.
 
 ## Morphology
 
@@ -98,4 +98,6 @@ While roots on their own tend to stand for their literal meaning unless otherwis
 
 Where metaphor is required, I recommend sticking to simple or self-explanatory analogies or symbols which are likely to be widely understood across various cultures. Conversely, compounds should avoid idioms, allusions, or other figures of speech which rely extensively on the listener's familiarity with a specific cultural context.
 
-The other types of words include particles, which serve special grammatical functions and take the form V, CV, and CVV, and freewords. Freewords include borrowed words and proper names (such as “Xextan”) and like roots and compounds, are grammatically predicates (see lesson 1). They cover all other valid word shapes besides predicates and particles.
+The other major class of native Xextan words is particles, which serve special grammatical functions and take the form V, CV, and CVV. A few examples include the personal pronouns **ni** and **vo**, the case markers **o**, **e**, and **a**, and the numbers 0-9.
+
+Finally, all valid words with shapes that count as neither roots nor compounds nor particles belong to a catch-all class of words known as "freewords". Freewords are predicates, like roots and compounds, and are used for personal names, borrowed words, cultural terms, taxonomic classifications, and various other purposes.

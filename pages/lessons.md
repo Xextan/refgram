@@ -1,5 +1,5 @@
-# Xextbook (Xextan Lessons)
-Xextan: the compact logical language
+# The Xextbook
+a primer for Xextan, the compact logical language
 Version 1.1 by Rachel Isabel Gardener
 Last updated 4/21/2024
 
