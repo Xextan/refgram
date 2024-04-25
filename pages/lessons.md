@@ -43,7 +43,7 @@ Second, note the indirect object, **a len not**. When a predicate immediately fo
 &nbsp;&nbsp;&nbsp;***e buk u don o len a len not.***
 &nbsp;&nbsp;&nbsp;*“A book was given by a person to another person.”*
 
-This means exactly the same thing as the previous example, but **u** is needed to prevent buk from forming a serial predicate with **don**, which would result in the sentence becoming a nonsensical fragment meaning something like “A giving-book a person another person.” Remember, however, that while every Xextan predicate has a subject O, not all have a direct object E or indirect object A. In short, case markers allow for highly free word order within sentences without sacrificing clarity or conciseness.
+This means exactly the same thing as the previous example, but **u** is needed to prevent **buk** from forming a serial predicate with **don**, which would result in the sentence becoming a nonsensical fragment meaning something like “A giving-book a person another person.” Remember, however, that while every Xextan predicate has a subject O, not all have a direct object E or indirect object A. In short, case markers allow for highly free word order within sentences without sacrificing clarity or conciseness.
 
 The particle **no** can be used to negate predicates, including those which have been converted into nouns, as well as nearly any other kind of Xextan word.
 
@@ -256,7 +256,7 @@ To state that an action was performed using a certain tool or implement or by a 
 &nbsp;&nbsp;&nbsp;***pal ni e tik dal fo xlotul.***
 &nbsp;&nbsp;&nbsp;*“I’m building a huge machine using a hammer.”*
 
-Another useful set of prepositions are **pau**, **nau**, and **fau**, which mean before, during, and after, respectively. Notice that they follow the same P-N-F pattern as **pa**, **na**, and **fa**. Unlike peu, though, these are primarily useful when used to encapsulate an entire clause, which requires the use of scope management. (See chapter 9, “Scope”, for details.)
+Another useful set of prepositions are **pau**, **nau**, and **fau**, which mean before, during, and after, respectively. Notice that they follow the same P-N-F pattern as **pa**, **na**, and **fa**. Unlike **peu**, though, these are primarily useful when used to encapsulate an entire clause, which requires the use of scope management. (See chapter 9, “Scope”, for details.)
 
 There are many other prepositions to learn, including the vocative voi and the directional **fai**, but since they all behave exactly the same way, we do not need to cover all of them in detail at the moment. Remember though that while not necessarily grammatically incorrect, not all prepositions may make rational sense in a given sentence.
 
@@ -459,7 +459,7 @@ Lastly, comparisons and superlatives in Xextan are expressed using lambda verbs,
 
 Another mechanism we should cover is the ability to break up trailing serial elements from their head, which we will call split serialization. Ordinarily, serials are constructed by simply placing two predicates next to each other without an intervening operator or terminator. However, it is also possible to explicitly mark serial elements, which allows them to be moved to a later position in the sentence.
 
-To accomplish this, all we need to do is attach a case marker to the descriptive element, just like we would otherwise do to create an ordinary noun phrase. If multiple nouns with the same case marker (or implicit case per the case hierarchy) appear in a sentence, the later ones will be treated as serial elements modifying the original noun which matches the case.
+To accomplish this, all we need to do is attach a case marker to the descriptive element, just like we would otherwise do to create an ordinary noun phrase. If multiple arguments with the same case marker appear in a sentence, arguments with a repeated case marker will be treated as serial elements modifying a prior element which bears that case marker.
 
 &nbsp;&nbsp;&nbsp;***don nia sat te txixo ni - o donfel.***
 &nbsp;&nbsp;&nbsp;*My friend gave this food to me - the generous one.*
